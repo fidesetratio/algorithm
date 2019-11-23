@@ -13,6 +13,9 @@
 7. sorting fundamentals (quicksort, mergesort,bubblesort techniques ,
 
    runtime of a sort,time space complexity)
+   
+   - QuickSort
+   - BubbleSort
 
 8. Recursion
 
