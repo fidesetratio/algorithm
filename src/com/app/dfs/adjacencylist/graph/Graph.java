@@ -91,8 +91,7 @@ public class Graph {
 	}
 	
 	public static List<Integer> bfs(Graph graph, int root){
-		ArrayList<Integer> listOfVisited = new ArrayList<Integer>();
-		
+		ArrayList<Integer> listOfVisited = new ArrayList<Integer>();		
 		Queue<Integer> queue = new ArrayDeque<Integer>();
 		Set<Integer> visited = new LinkedHashSet<Integer>();
 		queue.add(root);
