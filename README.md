@@ -24,6 +24,8 @@
 10.Binary search
 
 
+Pertanyaan2 untuk programming dan juga IT Industry
+
 
 1
 4
