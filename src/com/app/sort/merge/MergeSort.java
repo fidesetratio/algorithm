@@ -6,5 +6,13 @@ public class MergeSort {
 		// TODO Auto-generated method stub
 
 	}
+	
+	
+	public static void merge() {
+		
+	}
+	public static void  mergeSort(int arr[], int low, int high) {
+		
+	}
 
 }
